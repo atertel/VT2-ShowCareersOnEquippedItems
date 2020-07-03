@@ -1,0 +1,11 @@
+mod = [
+	"Show Careers on Equipped Items"
+]
+
+package = [
+	"resource_packages/Show Careers on Equipped Items/Show Careers on Equipped Items"
+]
+
+lua = [
+	"scripts/mods/Show Careers on Equipped Items/*"
+]
