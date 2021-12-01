@@ -18,8 +18,10 @@ CareerNameMappings = {
 	we_shade = {name = "Shade", index = 4},
 	bw_unchained = {name = "Unchained", index = 2},
 	bw_scholar = {name = "Pyromancer", index = 2},
-    wh_bountyhunter = {name = "Bounty Hunter", index = 1},
-    es_questingknight = {name = "Grail Knight", index = 5},
+    	wh_bountyhunter = {name = "Bounty Hunter", index = 1},
+    	es_questingknight = {name = "Grail Knight", index = 5},
+	we_thornsister = {name = "Sister of the Thorn", index = 4},
+	dr_engineer = {name = "Outcast Engineer", index = 3},
 }
 
 local function get_career_names(backend_id)
