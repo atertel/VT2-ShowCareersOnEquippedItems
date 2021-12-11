@@ -22,6 +22,7 @@ CareerNameMappings = {
     	es_questingknight = {name = "Grail Knight", index = 5},
 	we_thornsister = {name = "Sister of the Thorn", index = 4},
 	dr_engineer = {name = "Outcast Engineer", index = 3},
+	wh_priest = {name = "Warrior Priest of Sigmar", index = 1},
 }
 
 local function get_career_names(backend_id)
